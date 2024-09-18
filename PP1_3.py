@@ -4,7 +4,7 @@ def q1():
   #Write Assignment code here
   #Remember your code must be indented once
 
-  print("\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *")
+  print("\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n")
 
   print("\n* * * * *\n*       *\n*       *\n*       *\n* * * * *")
 
